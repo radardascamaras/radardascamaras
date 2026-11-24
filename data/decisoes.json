@@ -850,5 +850,128 @@
   "escopo": "especifica",
   "fonte": "Boletim Informativo de Jurisprudência n. 185",
   "fonte_url": "https://www.tce.pr.gov.br/data/files/94/52/28/96/82850A108F84120A026B6394/BJ%20185%20_rev_.docx"
+ },
+ {
+  "slug": "tcemg-denuncia-1181390-vale-alimentacao-taxa-negativa",
+  "tribunal": "TCE-MG",
+  "tipo": "Denúncia",
+  "numero": "1181390",
+  "processo": "1181390",
+  "orgao": "Colegiado (informativo não especifica)",
+  "relator": "Adonias Monteiro (conselheiro em exercício)",
+  "data": "2026-02-10",
+  "data_tipo": "sessão de",
+  "titulo": "A câmara pode aceitar taxa de administração negativa na licitação de vale-alimentação?",
+  "tese": "Sim. A Lei 14.442/2022 não impede a aceitação de taxa de administração negativa na contratação de empresa fornecedora de vale-alimentação ou vale-refeição, pois trata apenas de alterações na CLT e no PAT (Lei 6.321/1976). Além disso, a Administração deve, em regra, pagar somente após a prestação do serviço (art. 145 da Lei 14.133/2021 c/c art. 62 da Lei 4.320/1964). Denúncia julgada improcedente.",
+  "contexto": "Denúncia contra pregão eletrônico de Câmara Municipal para fornecimento e gerenciamento de vale-alimentação.",
+  "assuntos": [
+   "licitacoes-contratos"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 325",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20325.pdf"
+ },
+ {
+  "slug": "tcemg-representacao-1167218-duodecimo-dia-20",
+  "tribunal": "TCE-MG",
+  "tipo": "Representação",
+  "numero": "1167218",
+  "processo": "1167218",
+  "orgao": "Segunda Câmara",
+  "relator": "Gilberto Diniz",
+  "data": "2026-03-10",
+  "data_tipo": "sessão de",
+  "titulo": "O que acontece quando a prefeitura repassa o duodécimo a menor ou depois do dia 20?",
+  "tese": "O repasse do duodécimo à Câmara deve ser feito integralmente até o dia 20 de cada mês (art. 168 da CF). Repassar a menor ou com atraso é irregular e pode configurar crime de responsabilidade do prefeito (art. 29-A, § 2º, II e III, da CF). No caso, a representação foi julgada procedente, mas sem responsabilização, porque os valores foram recompostos; o Tribunal expediu determinação ao prefeito para que cumpra o prazo constitucional.",
+  "contexto": "Representação envolvendo repasses à Câmara Municipal de Patrocínio em vários meses de 2024.",
+  "assuntos": [
+   "duodecimo-limites"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 327",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20327.pdf"
+ },
+ {
+  "slug": "tcemg-inspecao-1164209-verba-indenizatoria-veiculos",
+  "tribunal": "TCE-MG",
+  "tipo": "Inspeção Extraordinária",
+  "numero": "1164209",
+  "processo": "1164209",
+  "orgao": "Segunda Câmara",
+  "relator": "Gilberto Diniz",
+  "data": "2026-03-10",
+  "data_tipo": "sessão de",
+  "titulo": "Verba indenizatória para combustível e manutenção de veículos de vereadores: o que o TC exige?",
+  "tese": "A câmara deve controlar os gastos e exigir comprovação do nexo entre a despesa e o exercício da vereança. O Tribunal constatou fragilidade nesse controle, mas, sem dolo ou erro grosseiro (art. 28 da LINDB), não aplicou sanção nem determinou ressarcimento. Fica o alerta para aperfeiçoar a regulamentação e a prestação de contas da verba.",
+  "contexto": "Inspeção extraordinária em Câmara Municipal sobre gastos com produtos para manutenção de veículos e combustível pagos como verba indenizatória.",
+  "assuntos": [
+   "verbas-indenizatorias",
+   "controle-interno"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 327",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20327.pdf"
+ },
+ {
+  "slug": "tcemg-representacao-1167245-segregacao-funcoes",
+  "tribunal": "TCE-MG",
+  "tipo": "Representação",
+  "numero": "1167245",
+  "processo": "1167245",
+  "orgao": "Segunda Câmara",
+  "relator": "Hamilton Coelho (conselheiro em exercício)",
+  "data": "2026-03-31",
+  "data_tipo": "sessão de",
+  "titulo": "Comissionado pode exercer o controle interno ou atividades rotineiras da câmara?",
+  "tese": "Não. Cargos em comissão destinam-se apenas a direção, chefia e assessoramento, não a atribuições técnicas e rotineiras, nem ao controle interno. Também viola a segregação de funções o servidor efetivo que fiscaliza o próprio serviço, em situação de conflito de interesses. Foram aplicadas multas aos responsáveis.",
+  "contexto": "Representação sobre a estrutura de pessoal e o controle interno de Câmara Municipal.",
+  "assuntos": [
+   "controle-interno",
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 328",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20328.pdf"
+ },
+ {
+  "slug": "tcemg-denuncia-1160591-cartao-bandeirado",
+  "tribunal": "TCE-MG",
+  "tipo": "Denúncia",
+  "numero": "1160591",
+  "processo": "1160591",
+  "orgao": "Segunda Câmara",
+  "relator": "Adonias Monteiro (conselheiro em exercício)",
+  "data": "2026-04-28",
+  "data_tipo": "sessão de",
+  "titulo": "A câmara pode exigir cartão bandeirado (arranjo aberto) no vale-alimentação e proibir taxa negativa?",
+  "tese": "Exigir cartão com bandeira ou arranjo de pagamento aberto é possível, desde que a escolha seja motivada no processo (art. 174, § 1º, do Decreto 10.854/2021). Já vedar a taxa de administração negativa é irregular. O Tribunal expediu recomendação à câmara.",
+  "contexto": "Denúncia contra pregão de Câmara Municipal para vale-alimentação e vale-refeição.",
+  "assuntos": [
+   "licitacoes-contratos"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 330",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20330.pdf"
+ },
+ {
+  "slug": "tcemg-consulta-1200008-cesta-natalina-resolucao",
+  "tribunal": "TCE-MG",
+  "tipo": "Consulta (prejulgamento de tese)",
+  "numero": "1200008",
+  "processo": "1200008",
+  "orgao": "Tribunal Pleno",
+  "relator": "Adonias Monteiro (conselheiro em exercício)",
+  "data": "2026-05-27",
+  "data_tipo": "sessão de",
+  "titulo": "A câmara pode dar cesta natalina aos servidores por resolução?",
+  "tese": "Sim. A Câmara pode instituir cesta natalina para seus servidores por resolução do próprio Legislativo, dada sua competência privativa sobre a matéria. O benefício pode ser pago em produtos, em dinheiro (abono na folha de dezembro) ou como crédito no cartão alimentação, e o auxílio-alimentação pode ser majorado excepcionalmente em dezembro. Exige dotação orçamentária, autorização na LDO e respeito aos limites da LRF. Tese com caráter normativo; complementa a Consulta 911586.",
+  "contexto": "Consulta do presidente da Câmara Municipal de Botelhos (com apenso 1200006).",
+  "assuntos": [
+   "verbas-indenizatorias",
+   "pessoal"
+  ],
+  "escopo": "aplicavel",
+  "fonte": "Informativo de Jurisprudência n. 331",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20331.pdf"
  }
 ]
