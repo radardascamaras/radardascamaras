@@ -60,7 +60,7 @@ def page(title, desc, body, root, canonical, jsonld=None):
 <link rel="stylesheet" href="{root}assets/style.css">{ads}{ld}
 </head><body>
 <nav class="nav" aria-label="Principal"><a class="brand" href="{root}index.html">{RADAR_LOGO}Radar das Câmaras</a>
-<a href="{root}index.html#decisoes">Decisões</a><a href="{root}assuntos.html">Assuntos</a><a href="{root}tribunais.html">Tribunais</a><a href="{root}sobre.html">Sobre</a></nav>
+<a href="{root}index.html#decisoes">Decisões</a><a href="{root}assuntos.html">Assuntos</a><a href="{root}tribunais.html">Tribunais</a><a href="{root}cursos.html">Cursos sob medida</a><a href="{root}sobre.html">Sobre</a></nav>
 {body}
 <footer class="band"><div class="wrap fgrid">
 <div><b style="color:#fff">Radar das Câmaras</b><br>Jurisprudência dos Tribunais de Contas sobre a gestão das câmaras municipais, organizada por assunto.</div>
@@ -78,8 +78,8 @@ def ad_slot():
 
 def curso_box(root):
     return f'''<aside class="curso"><h3>Curso: a gestão da câmara segundo os Tribunais de Contas</h3>
-<p style="margin:0 0 14px">Subsídios, duodécimo, controle interno, pessoal e licitações explicados com as decisões mais recentes. Em preparação.</p>
-<a class="btn" href="{root}contato.html">Quero ser avisado</a></aside>'''
+<p style="margin:0 0 14px">Capacitação sob medida para a sua câmara ou para as câmaras da sua região, com as decisões do Tribunal de Contas do seu estado.</p>
+<a class="btn" href="{root}cursos.html">Conhecer os cursos</a></aside>'''
 
 def tags(d, root):
     t = [f'<a class="tag" href="{root}assunto/{a}.html">{e(ASSUNTOS[a])}</a>' for a in d['assuntos']]
@@ -230,6 +230,44 @@ q.addEventListener('input',apply);apply();
 <p><b>Específica de câmara</b>: a decisão trata diretamente de câmara municipal, vereadores ou Poder Legislativo municipal. <b>Aplicável à câmara</b>: decisão de alcance geral cujo entendimento também vale para as câmaras.</p>
 <h2>Aviso</h2>
 <p>O Radar das Câmaras é um projeto independente, sem vínculo com os Tribunais de Contas. Os resumos são elaborados de boa-fé, mas não substituem o inteiro teor das decisões nem constituem orientação jurídica para casos concretos. Antes de decidir, consulte a decisão original e a legislação do seu município.</p>''')
+    temas = [
+        ('Subsídio dos vereadores', 'Fixação, prazos, anterioridade, revisão geral e teto: o que dá multa e devolução.'),
+        ('Duodécimo e limites do art. 29-A', 'Base de cálculo, inativos e pensionistas, repasse no meio do ano e devolução de saldo.'),
+        ('Controle interno do Legislativo', 'Estrutura, independência, rotinas e o que o Tribunal espera da unidade de controle.'),
+        ('Pessoal e cargos', 'Comissionados, funções de confiança, gratificações e limites da LRF.'),
+        ('Licitações e contratações diretas', 'Dispensa, inexigibilidade e pesquisa de preços na Lei 14.133/2021, com os erros mais punidos.'),
+        ('Julgamento das contas do prefeito', 'Rito, prazos, quórum e o envio da decisão ao Tribunal de Contas.'),
+        ('Transparência', 'O que o portal da câmara precisa publicar para não ser apontado pelo Tribunal.'),
+        ('Verbas indenizatórias', 'Auxílios, diárias e ressarcimentos: quando são válidos e como instituí-los.'),
+    ]
+    tl = ''.join(f'<div class="card"><h3>{e(t)}</h3><p>{e(d)}</p></div>' for t, d in temas)
+    b = f'''<header class="top band"><div class="wrap hero">
+<div><h1>Cursos sob medida para a sua câmara</h1>
+<p class="lead">Capacitação para vereadores, servidores, controladores e assessores, montada a partir das dúvidas reais da sua câmara e das decisões do Tribunal de Contas do seu estado.</p>
+<a class="btn" href="contato.html">Solicitar uma proposta</a></div>
+<div style="justify-self:center;text-align:center"><div aria-label="Foto de Carlos Átila Emerick Soares (a incluir)" style="width:220px;height:220px;border-radius:50%;background:#7a2346;border:4px solid #f3cdd9;display:grid;place-items:center;font:800 64px 'Libre Franklin',sans-serif;color:#fbeff3;margin:0 auto">CÁ</div>
+<p style="margin:14px 0 0;color:#fff;font:700 18px 'Libre Franklin',sans-serif">Carlos Átila Emerick Soares</p><p style="margin:2px 0 0;color:#efd2dc;font:15px 'Libre Franklin',sans-serif">Advogado · OAB/ES 15.650</p></div></div></header>
+<main><section class="band"><div class="wrap grid2"><div class="prose">
+<h2>Por que um curso sob medida</h2>
+<p>Cursos abertos falam de regras gerais. A sua câmara tem a Lei Orgânica, o Regimento, a estrutura de pessoal e o Tribunal de Contas dela. Um curso sob medida parte disso: o que a equipe faz no dia a dia, onde estão as dúvidas e o que o Tribunal do seu estado já decidiu sobre cada ponto.</p>
+<p>O conteúdo nasce do acervo do Radar das Câmaras, que acompanha as decisões dos Tribunais de Contas sobre a gestão das câmaras. Cada tema é explicado com casos reais: o que foi aprovado, o que gerou multa e o que precisou ser devolvido.</p>
+<h2>Dois formatos</h2>
+<p><b>Para a sua câmara.</b> Turma fechada, presencial ou online, para vereadores, servidores, controle interno e assessoria. O programa é ajustado ao que a câmara precisa resolver agora: fixação de subsídios, estrutura do controle interno, preparação para o julgamento das contas, revisão de rotinas de compras.</p>
+<p><b>Para a sua região.</b> Um encontro para várias câmaras vizinhas, organizado com associações ou consórcios de municípios. O custo é dividido entre as câmaras participantes, e a troca de experiências entre equipes que enfrentam os mesmos problemas enriquece o curso.</p>
+<h2>Como funciona</h2>
+<ol><li><b>Conversa inicial</b>: entendemos o público, as dúvidas e o momento da câmara.</li>
+<li><b>Programa sob medida</b>: temas, carga horária e formato definidos com a câmara, com base nas decisões do Tribunal do seu estado.</li>
+<li><b>Curso</b>: aulas práticas, com casos reais e espaço para as perguntas da equipe.</li>
+<li><b>Material de apoio</b>: resumo das decisões citadas e roteiros práticos para consulta depois do curso.</li></ol>
+<p>A contratação de treinamento e aperfeiçoamento de pessoal segue a Lei 14.133/2021; a proposta traz a documentação necessária para o processo da câmara.</p>
+</div><aside><div class="box"><h3>Sobre o instrutor</h3>
+<p style="font-size:16px">Carlos Átila Emerick Soares é advogado (OAB/ES 15.650) e servidor público há mais de 15 anos, com atuação no controle interno do Poder Legislativo municipal. É o criador do Radar das Câmaras, que reúne a jurisprudência dos Tribunais de Contas sobre a gestão das câmaras.</p></div>
+<div style="height:16px"></div><div class="curso"><h3>Vamos conversar sobre a sua câmara?</h3><p style="margin:0 0 14px">Conte quem vai participar e quais temas mais preocupam a equipe. Você recebe uma proposta sem compromisso.</p><a class="btn" href="contato.html">Solicitar uma proposta</a></div></aside></div></section>
+<section class="band soft"><div class="wrap"><h2>Temas mais pedidos</h2><p class="aviso" style="margin-top:-6px">Combine os temas de acordo com a necessidade da sua câmara.</p><div class="list">{tl}</div></div></section></main>'''
+    write('cursos.html', page('Cursos sob medida para câmaras municipais — Radar das Câmaras',
+        'Capacitação sob medida para câmaras municipais e regiões: subsídios, duodécimo, controle interno, pessoal e licitações com as decisões do Tribunal de Contas do seu estado.', b, '', 'cursos'))
+    pages.append('cursos')
+
     inst('privacidade', 'Política de privacidade — Radar das Câmaras', 'Política de privacidade', f'''
 <p>Atualizada em {dbr(datetime.date.today().isoformat())}.</p>
 <h2>Dados coletados</h2><p>O site não exige cadastro. Podem ser coletados dados de navegação (páginas visitadas, tipo de navegador e dispositivo, endereço IP de forma anonimizada) por ferramentas de estatística e de publicidade.</p>
