@@ -542,5 +542,252 @@
   "escopo": "aplicavel",
   "fonte": "Boletim de Jurisprudência (maio/2026)",
   "fonte_url": "https://www.tce.sp.gov.br/sites/default/files/publicacoes/Boletim-Jurisprudencia-TCESP-Maio_2026.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-03-2025-vereador-acumulacao-cargos",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 3/2025",
+  "processo": "00396/2025",
+  "orgao": "Tribunal Pleno",
+  "relator": "Maurício Oliveira Azevedo (substituto)",
+  "data": "2025-03-18",
+  "data_tipo": "acórdão de",
+  "titulo": "Servidor com dois cargos acumuláveis pode ser vereador?",
+  "tese": "Sim. É possível acumular dois cargos efetivos acumuláveis (art. 37, XVI, da CF) com o mandato de vereador, desde que haja compatibilidade de horários, verificada com rigor pela Administração. Também pode exercer o mandato o servidor já aposentado em um ou nos dois cargos.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Cristianópolis.",
+  "assuntos": [
+   "pessoal",
+   "subsidio-vereadores"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 3/2025",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/ac-con-00003-25.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-07-2025-servicos-juridicos-camara",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 7/2025",
+  "processo": "00211/2020",
+  "orgao": "Tribunal Pleno",
+  "relator": "Vasco C. A. Jambo (substituto)",
+  "data": "2025-07-21",
+  "data_tipo": "publicado em",
+  "titulo": "A Câmara pode contratar advogado de fora em vez de ter procuradoria?",
+  "tese": "Depende. Se a Câmara tem procuradoria ou estrutura jurídica, a regra é o concurso público; a contratação externa é excepcional (falta de servidores, alta complexidade, especialização ou conflito de interesse) e cargos comissionados só cabem para chefia, direção ou assessoramento. Sem estrutura jurídica própria, a Câmara pode contratar serviços jurídicos por inexigibilidade (art. 74, III, da Lei 14.133/2021). Não há número máximo de advogados: cabe à Câmara dimensionar a necessidade.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Santa Helena de Goiás; prevaleceu o voto do segundo revisor, Conselheiro Joaquim Alves de Castro Neto.",
+  "assuntos": [
+   "pessoal",
+   "licitacoes-contratos"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 7/2025",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/ac-con-00007-25.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-10-2025-verba-indenizatoria-gabinete",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 10/2025",
+  "processo": "02775/25",
+  "orgao": "Tribunal Pleno",
+  "relator": "Laécio Guedes do Amaral (substituto)",
+  "data": "2025-08-19",
+  "data_tipo": "acórdão de",
+  "titulo": "A Câmara pode criar verba indenizatória de gabinete para vereadores?",
+  "tese": "Sim, em qualquer porte de município, para ressarcir gastos extraordinários da atividade parlamentar. Mas a verba deve ser criada por lei formal, não por resolução (que só pode regulamentar aspectos operacionais), ter finalidade indenizatória expressa, não servir de complemento de remuneração e ser compatível com a realidade financeira local e as demandas da população.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Aparecida de Goiânia.",
+  "assuntos": [
+   "verbas-indenizatorias"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 10/2025",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/ac-con-00010-25.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-11-2025-licenca-interesse-particular",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 11/2025",
+  "processo": "03286/25",
+  "orgao": "Tribunal Pleno",
+  "relator": "Laécio Guedes do Amaral (substituto)",
+  "data": "2025-09-09",
+  "data_tipo": "acórdão de",
+  "titulo": "Servidor da Câmara pode tirar nova licença para tratar de interesses particulares?",
+  "tese": "Sim, se a legislação local previr expressamente, mesmo que o servidor já tenha usufruído da licença antes. As normas gerais não fixam tempo mínimo de exercício entre uma licença e outra; cabe à lei municipal estabelecer critérios objetivos.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Catalão, sobre servidor que já havia ficado oito anos licenciado.",
+  "assuntos": [
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 11/2025",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/ac-con-00011-25.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-13-2025-limpeza-jardinagem-temporarios",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 13/2025",
+  "processo": "00495/25",
+  "orgao": "Tribunal Pleno",
+  "relator": "Flávio Monteiro de Andrada Luna (substituto)",
+  "data": "2025-12-09",
+  "data_tipo": "acórdão de",
+  "titulo": "A Câmara pode contratar temporários ou terceirizar limpeza e jardinagem?",
+  "tese": "Pode, nos dois casos. A contratação temporária (art. 37, IX, da CF) só cabe para necessidade temporária de excepcional interesse público, com lei específica, ato que demonstre a situação e processo seletivo simplificado. A terceirização, mediante licitação, é possível porque essas atividades não integram a competência legal da Câmara.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Morrinhos.",
+  "assuntos": [
+   "pessoal",
+   "licitacoes-contratos"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 13/2025",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/AC-CON-00013-25.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-14-2025-gratificacao-mesa-diretora",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 14/2025",
+  "processo": "06443/25",
+  "orgao": "Tribunal Pleno",
+  "relator": "Laécio Guedes do Amaral (substituto)",
+  "data": "2025-12-17",
+  "data_tipo": "acórdão de",
+  "titulo": "Vereador da Mesa Diretora ou presidente de comissão pode receber gratificação?",
+  "tese": "Sim, se instituída por lei municipal. A gratificação remunera as atividades extras de direção e organização da Mesa e das comissões permanentes e tem natureza remuneratória, não indenizatória. Subsídio mais gratificação deve respeitar o teto municipal (subsídio do prefeito, art. 37, XI, da CF), sem confundir com o limite do subsídio do vereador (art. 29, VI).",
+  "contexto": "Consulta do Presidente da Câmara Municipal de São Luís de Montes Belos sobre um auxílio-representação de 1/3 do subsídio.",
+  "assuntos": [
+   "subsidio-vereadores"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 14/2025",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/AC-CON-00014-25.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-03-2026-inativos-pensionistas-29a",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 3/2026",
+  "processo": "03074/25",
+  "orgao": "Tribunal Pleno",
+  "relator": "Flávio Monteiro de Andrada Luna (substituto)",
+  "data": "2026-04-28",
+  "data_tipo": "acórdão de",
+  "titulo": "Aposentados e pensionistas entram no limite de gastos da Câmara? (TCM-GO)",
+  "tese": "Só os que pesam no Tesouro Municipal. No limite total do art. 29-A da CF entram os gastos com inativos e pensionistas de efetivo impacto orçamentário e financeiro sobre o Tesouro; ficam fora os custeados com recursos e receitas próprias do RPPS. As despesas pagas diretamente pela Câmara com esses benefícios integram também o limite de 70% da folha (§ 1º do art. 29-A).",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Montividiu sobre os efeitos da EC 109/2021. Compare com o entendimento do TCE-ES (Parecer em Consulta TC-011/2026).",
+  "assuntos": [
+   "duodecimo-limites",
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 3/2026",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/AC-CON-00003-26.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-05-2026-emendas-impositivas-rcl",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 5/2026",
+  "processo": "01848/26",
+  "orgao": "Tribunal Pleno",
+  "relator": "Flávio Monteiro de Andrada Luna (substituto)",
+  "data": "2026-06-30",
+  "data_tipo": "acórdão de",
+  "titulo": "Sobre qual receita se calcula o limite das emendas impositivas municipais?",
+  "tese": "Sobre a Receita Corrente Líquida do exercício anterior ao envio do projeto de lei orçamentária (art. 166, § 9º, da CF). A mesma base vale para os restos a pagar das emendas (§ 17). O Tribunal recomendou ajustar a Lei Orgânica aos parâmetros federais, pelo princípio da simetria.",
+  "contexto": "Consulta do Prefeito de Montes Claros de Goiás.",
+  "assuntos": [
+   "orcamento-emendas"
+  ],
+  "escopo": "aplicavel",
+  "fonte": "Acórdão-Consulta n. 5/2026",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/AC-CON-00005-26.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-06-2026-sobras-duodecimo-obra-camara",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 6/2026",
+  "processo": "00350/26",
+  "orgao": "Tribunal Pleno",
+  "relator": "Laécio Guedes do Amaral (substituto)",
+  "data": "2026-06-14",
+  "data_tipo": "acórdão de",
+  "titulo": "O duodécimo devolvido pela Câmara pode pagar obra no prédio da Câmara?",
+  "tese": "Sim, mas pelo Executivo. As sobras devolvidas voltam ao caixa único e perdem a vinculação, então a Prefeitura pode usá-las em obra na sede da Câmara, com o devido processo orçamentário; não cabe simplesmente devolvê-las à Câmara. A Prefeitura não pode assumir sozinha obra iniciada pela Câmara: antes, o contrato da Câmara deve ser encerrado.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Palestina de Goiás, com base no art. 168, §§ 1º e 2º, da CF (EC 109/2021).",
+  "assuntos": [
+   "duodecimo-limites",
+   "patrimonio"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 6/2026",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/AC-CON-00006-26.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-10-2026-procurador-fiscal-contrato",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 10/2026",
+  "processo": "12374/25",
+  "orgao": "Tribunal Pleno",
+  "relator": "Flávio Monteiro de Andrada Luna (substituto)",
+  "data": "2026-08-25",
+  "data_tipo": "acórdão de",
+  "titulo": "Procurador da Câmara pode ser fiscal de contrato?",
+  "tese": "Pode, observados os arts. 7º e 117 da Lei 14.133/2021: gestão por competências, qualificação compatível com o objeto e segregação de funções. Nesse caso, ele não pode dar parecer nem assessorar juridicamente a execução do mesmo contrato. Em câmaras com quadro reduzido, a falta de pessoal pode justificar a designação, com motivação.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Mozarlândia.",
+  "assuntos": [
+   "licitacoes-contratos",
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 10/2026",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/AC-CON-00010-26.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-13-2026-rga-sobre-remuneracao-reajustada",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 13/2026",
+  "processo": "04411/26",
+  "orgao": "Tribunal Pleno",
+  "relator": "Laécio Guedes do Amaral (substituto)",
+  "data": "2026-10-27",
+  "data_tipo": "acórdão de",
+  "titulo": "A revisão geral anual pode incidir sobre salário que já foi reajustado no ano?",
+  "tese": "Em tese, sim, se o aumento anterior foi ganho real ou reestruturação genuína, e não recomposição da inflação; aí a revisão geral incide sobre a remuneração reajustada, salvo absorção ou compensação prevista na lei. Se o aumento anterior era, na verdade, recomposição inflacionária, pode haver absorção ou compensação.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Mozarlândia sobre servidores do Legislativo.",
+  "assuntos": [
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 13/2026",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/AC-CON-00013-26.pdf"
+ },
+ {
+  "slug": "tcmgo-consulta-14-2026-copias-balancetes-arquivo",
+  "tribunal": "TCM-GO",
+  "tipo": "Acórdão-Consulta",
+  "numero": "n. 14/2026",
+  "processo": "11193/25",
+  "orgao": "Tribunal Pleno",
+  "relator": "Flávio Monteiro de Andrada Luna",
+  "data": "2026-11-12",
+  "data_tipo": "acórdão de",
+  "titulo": "A Câmara pode incinerar cópias antigas de balancetes da Prefeitura?",
+  "tese": "Não por incineração direta. Os originais são de guarda permanente; as cópias guardadas na Câmara só podem ser descartadas após avaliação documental, com comissão de avaliação (CPAD), tabela de temporalidade e procedimento formal de eliminação.",
+  "contexto": "Consulta da Presidente da Câmara Municipal de Perolândia.",
+  "assuntos": [
+   "patrimonio",
+   "transparencia"
+  ],
+  "escopo": "especifica",
+  "fonte": "Acórdão-Consulta n. 14/2026",
+  "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/AC-CON-00014-26.pdf"
  }
 ]
