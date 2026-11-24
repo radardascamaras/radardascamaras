@@ -5,5 +5,10 @@
   "assets": {
     "directory": "./dist",
     "html_handling": "auto-trailing-slash"
-  }
+  },
+  // Domínio próprio (o Cloudflare cria o DNS e o certificado HTTPS automaticamente)
+  "routes": [
+    { "pattern": "radardascamaras.com.br", "custom_domain": true },
+    { "pattern": "www.radardascamaras.com.br", "custom_domain": true }
+  ]
 }
