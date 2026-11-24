@@ -29,6 +29,7 @@ TRIBUNAIS = {
  'TCE-MG': ('tce-mg', 'Tribunal de Contas do Estado de Minas Gerais'),
  'TCE-SP': ('tce-sp', 'Tribunal de Contas do Estado de São Paulo'),
  'TCM-GO': ('tcm-go', 'Tribunal de Contas dos Municípios do Estado de Goiás'),
+ 'TCE-PR': ('tce-pr', 'Tribunal de Contas do Estado do Paraná'),
 }
 MESES = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez']
 

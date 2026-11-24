@@ -789,5 +789,66 @@
   "escopo": "especifica",
   "fonte": "Acórdão-Consulta n. 14/2026",
   "fonte_url": "https://www.tcmgo.tc.br/site/wp-content/uploads/2017/06/AC-CON-00014-26.pdf"
+ },
+ {
+  "slug": "tcepr-consulta-566-2026-auxilio-alimentacao-vereadores",
+  "tribunal": "TCE-PR",
+  "tipo": "Consulta",
+  "numero": "Acórdão 566/2026",
+  "processo": "300695/2025",
+  "orgao": "Tribunal Pleno",
+  "relator": "Fabio de Souza Camargo",
+  "data": "2026-03-09",
+  "data_tipo": "sessão de",
+  "titulo": "Vereador pode receber auxílio-alimentação? E vale a anterioridade?",
+  "tese": "Sim, o auxílio-alimentação é compatível com o subsídio (art. 39, § 4º, da CF) por ter natureza indenizatória. Exige lei específica, previsão na LOA e na LDO, observância dos arts. 16 e 17 da LRF e critérios objetivos, como vínculo ao efetivo exercício e valores razoáveis. Não se aplica a regra da anterioridade da legislatura, desde que a verba não vire remuneração disfarçada.",
+  "contexto": "Consulta respondida pelo Tribunal Pleno; veiculada no DETC de 25/3/2026.",
+  "assuntos": [
+   "verbas-indenizatorias",
+   "subsidio-vereadores"
+  ],
+  "escopo": "especifica",
+  "fonte": "Boletim Informativo de Jurisprudência n. 184",
+  "fonte_url": "https://www.tce.pr.gov.br/data/files/1E/12/7F/7D/CC9AF910A9407AF9026B6394/BJ%20184%20_rev_.docx"
+ },
+ {
+  "slug": "tcepr-consulta-579-2026-servidor-camara-vereador",
+  "tribunal": "TCE-PR",
+  "tipo": "Consulta",
+  "numero": "Acórdão 579/2026",
+  "processo": "528416/2025",
+  "orgao": "Tribunal Pleno",
+  "relator": "Maurício Requião de Mello e Silva",
+  "data": "2026-03-09",
+  "data_tipo": "sessão de",
+  "titulo": "Servidor efetivo da própria Câmara pode exercer mandato de vereador?",
+  "tese": "Sim, se houver compatibilidade de horários e efetivo exercício, sem comprometer a independência, a segregação de funções e a impessoalidade. A compatibilidade, ou o afastamento, deve ser apurada em procedimento administrativo com contraditório e ampla defesa, e, se houver incompatibilidade, o servidor pode optar pela remuneração.",
+  "contexto": "Consulta da Câmara Municipal de Rosário do Ivaí; veiculada no DETC de 25/3/2026.",
+  "assuntos": [
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Boletim Informativo de Jurisprudência n. 184",
+  "fonte_url": "https://www.tce.pr.gov.br/data/files/1E/12/7F/7D/CC9AF910A9407AF9026B6394/BJ%20184%20_rev_.docx"
+ },
+ {
+  "slug": "tcepr-consulta-706-2026-subsidio-salario-minimo-inss",
+  "tribunal": "TCE-PR",
+  "tipo": "Consulta",
+  "numero": "Acórdão 706/2026",
+  "processo": "404105/2025",
+  "orgao": "Tribunal Pleno",
+  "relator": "Fabio de Souza Camargo",
+  "data": "2026-03-23",
+  "data_tipo": "sessão de",
+  "titulo": "Subsídio de vereador abaixo do salário-mínimo pode ser corrigido no meio do mandato?",
+  "tese": "Não. O subsídio é fixado numa legislatura para a seguinte (art. 29, VI, da CF), e não pode ser aumentado durante o mandato, nem para alcançar o salário-mínimo. Também não é possível a Câmara complementar, com dinheiro público, a contribuição mínima ao INSS dos vereadores, nem retroagir: seria obrigação pessoal do segurado e aumento indireto do subsídio.",
+  "contexto": "Consulta da Câmara Municipal de Vitorino; veiculada no DETC de 13/4/2026.",
+  "assuntos": [
+   "subsidio-vereadores"
+  ],
+  "escopo": "especifica",
+  "fonte": "Boletim Informativo de Jurisprudência n. 185",
+  "fonte_url": "https://www.tce.pr.gov.br/data/files/94/52/28/96/82850A108F84120A026B6394/BJ%20185%20_rev_.docx"
  }
 ]
