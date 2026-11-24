@@ -1,0 +1,68 @@
+/*
+VOICE: institucional e calmo, como um ementário bem diagramado; confiável para controlador, procurador e vereador.
+IDEA: um radar que varre os Tribunais de Contas e marca cada decisão sobre câmaras como um ponto no mostrador.
+PICTURE: mostrador de radar em SVG na faixa de abertura, com pontos por tribunal e a varredura girando devagar.
+COLOUR and TYPE: vinho de plenário (#5b1733) dominante, rosa-acinzentado de apoio, coral-sinal (#ff5a3c) nos pontos; Libre Franklin nos títulos, Source Serif 4 no texto.
+LAYOUT: faixa vinho com título, busca e radar; filtros; lista de decisões em cartões de ementa; rodapé vinho.
+*/
+:root{color-scheme:light dark;
+--bg:light-dark(#ffffff,#16100f);--soft:light-dark(#f5eff1,#221819);--ink:light-dark(#1f1a1c,#f1e9eb);--mute:light-dark(#5f5559,#b9adb1);
+--wine:#5b1733;--wine2:light-dark(#7a2346,#e6a3bd);--line:light-dark(#e6dde0,#3a2a2e);--sig:#ff5a3c;--card:light-dark(#fff,#1d1516)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+html{scroll-padding-top:72px}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 "Source Serif 4",Georgia,serif;overflow-x:clip}
+a{color:var(--wine2)}a:hover{text-decoration-thickness:2px}
+h1,h2,h3,.ui{font-family:"Libre Franklin",system-ui,sans-serif}
+h1{font-size:clamp(32px,5vw,50px);line-height:1.05;font-weight:800;margin:0 0 14px;text-wrap:balance}
+h2{font-size:26px;line-height:1.15;font-weight:750;margin:0 0 12px;text-wrap:balance}
+h3{font-size:19px;line-height:1.25;font-weight:700;margin:0 0 8px;text-wrap:balance}
+.wrap{max-width:1240px;margin:0 auto}
+.band{padding:clamp(28px,4vw,64px) max(5vw,16px)}
+.top{background:var(--wine);color:#fbeff3}
+.top a{color:#fff}
+.nav{display:flex;flex-wrap:wrap;align-items:center;gap:6px 22px;padding:14px max(5vw,16px);background:var(--wine);color:#fbeff3;font:600 15px "Libre Franklin",system-ui,sans-serif}
+.nav a{color:#fbeff3;text-decoration:none;padding:10px 0}.nav a:hover{text-decoration:underline}
+.brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:18px;margin-right:auto}
+.brand svg{width:30px;height:30px}
+.hero{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:clamp(20px,4vw,56px);align-items:center}
+.hero p.lead{font-size:19px;max-width:36em;color:#f3dbe3;margin:0 0 22px}
+.radar{width:100%;max-width:440px;aspect-ratio:1;justify-self:center}
+.sweep{transform-origin:200px 200px;animation:spin 9s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.sweep{animation:none}}
+.search{display:flex;gap:8px;max-width:560px}
+.search input{flex:1;font:16px "Libre Franklin",system-ui,sans-serif;padding:14px 16px;border-radius:10px;border:2px solid transparent;background:#fff;color:#1f1a1c;min-height:48px}
+.search input:focus{outline:3px solid var(--sig);outline-offset:2px}
+.stats{display:flex;gap:28px;flex-wrap:wrap;margin-top:22px;font-family:"Libre Franklin",system-ui,sans-serif}
+.stats b{display:block;font-size:30px;line-height:1;color:#fff}.stats span{font-size:14px;color:#efd2dc}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
+.chip{font:600 14px "Libre Franklin",system-ui,sans-serif;border:1.5px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:10px 14px;min-height:44px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center}
+.chip[aria-pressed=true]{background:var(--wine);border-color:var(--wine);color:#fff}
+.chip:focus-visible{outline:3px solid var(--sig);outline-offset:2px}
+.flabel{font:700 14px "Libre Franklin",system-ui,sans-serif;color:var(--mute);margin:0 0 8px}
+.list{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;display:flex;flex-direction:column;gap:8px}
+.card h3 a{color:var(--ink);text-decoration:none}.card h3 a:hover{color:var(--wine2);text-decoration:underline}
+.meta{font:500 13.5px/1.4 "Libre Franklin",system-ui,sans-serif;color:var(--mute);display:flex;flex-wrap:wrap;gap:4px 10px}
+.tag{font:700 12.5px "Libre Franklin",system-ui,sans-serif;background:var(--soft);color:var(--wine2);padding:3px 9px;border-radius:6px;text-decoration:none}
+.tag.apl{background:transparent;border:1px dashed var(--line);color:var(--mute)}
+.card p{margin:0;font-size:16px}
+.empty{padding:30px;border:1px dashed var(--line);border-radius:14px;text-align:center;color:var(--mute)}
+.soft{background:var(--soft)}
+.grid2{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:clamp(20px,4vw,48px);align-items:start}
+.tese{font-size:20px;line-height:1.55;border-left:4px solid var(--sig);padding:4px 0 4px 18px;margin:18px 0}
+dl.ficha{display:grid;grid-template-columns:auto minmax(0,1fr);gap:6px 16px;margin:0;font:15px/1.45 "Libre Franklin",system-ui,sans-serif}
+dl.ficha dt{color:var(--mute)}dl.ficha dd{margin:0}
+.box{background:var(--soft);border-radius:14px;padding:20px}
+.ad{border:1.5px dashed var(--line);border-radius:12px;min-height:120px;display:grid;place-items:center;color:var(--mute);font:13px "Libre Franklin",system-ui,sans-serif;margin:24px 0}
+.curso{background:var(--wine);color:#fbeff3;border-radius:14px;padding:22px}
+.curso h3{color:#fff}.curso a{color:#fff}
+.btn{display:inline-flex;align-items:center;min-height:44px;padding:10px 18px;border-radius:10px;background:var(--sig);color:#1f0d08;font:700 15px "Libre Franklin",system-ui,sans-serif;text-decoration:none}
+.aviso{font-size:14px;color:var(--mute)}
+.crumbs{font:500 14px "Libre Franklin",system-ui,sans-serif;color:#efd2dc;margin-bottom:10px}.crumbs a{color:#fff}
+.prose{max-width:70ch}
+footer{background:var(--wine);color:#efd2dc;font:14px/1.6 "Libre Franklin",system-ui,sans-serif}
+footer a{color:#fff}
+.fgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px}
+@media(max-width:760px){.hero,.grid2{grid-template-columns:minmax(0,1fr)}.radar{max-width:300px}}

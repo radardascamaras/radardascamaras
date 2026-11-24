@@ -1,0 +1,405 @@
+[
+ {
+  "slug": "tcees-parecer-previo-030-2024-julgamento-contas-camara",
+  "tribunal": "TCE-ES",
+  "tipo": "Parecer Prévio",
+  "numero": "TC-030/2024",
+  "processo": "TC-01203/2017",
+  "orgao": "",
+  "relator": "Rodrigo Flávio Freire Farias Chamoun",
+  "data": "2024-04-29",
+  "data_tipo": "publicado em",
+  "titulo": "A Câmara aprovar as contas do prefeito obriga o TC a rever o parecer prévio?",
+  "tese": "Não. O parecer prévio do TCEES não é revisto porque a Câmara Municipal julgou as contas do prefeito em sentido contrário. A Câmara pode afastar o parecer por 2/3 dos vereadores no julgamento político, mas o entendimento técnico do Tribunal só pode ser alterado por ele próprio ou pelo Judiciário. Pedido com esse objetivo não é admitido.",
+  "contexto": "Ex-prefeito de Guaçuí pediu a reforma do parecer que recomendou a rejeição das contas de 2009, alegando que a Câmara as aprovou por decreto legislativo em 2018.",
+  "assuntos": [
+   "julgamento-contas-prefeito"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 131",
+  "fonte_url": "https://www.tcees.tc.br/wp-content/uploads/formidable/44/Informativo-de-Jurisprudencia-n.-131.pdf"
+ },
+ {
+  "slug": "tcees-consulta-012-2024-doacao-bens-nao-e-duodecimo",
+  "tribunal": "TCE-ES",
+  "tipo": "Parecer em Consulta",
+  "numero": "TC-012/2024",
+  "processo": "TC-3383/2024",
+  "orgao": "Plenário",
+  "relator": "Davi Diniz de Carvalho",
+  "data": "2024-09-02",
+  "data_tipo": "publicado em",
+  "titulo": "Doação de bens da Prefeitura para a Câmara conta como duodécimo?",
+  "tese": "Não. A doação de bens móveis do Executivo ao Legislativo, sem envolvimento de dinheiro e com os bens permanecendo no patrimônio municipal, não caracteriza repasse nem antecipação de duodécimo, porque não há transferência de recursos financeiros.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Viana.",
+  "assuntos": [
+   "duodecimo-limites",
+   "patrimonio"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 133",
+  "fonte_url": "https://www.tcees.tc.br/wp-content/uploads/formidable/44/Informativo-de-Jurisprudencia-133.pdf"
+ },
+ {
+  "slug": "tcees-acordao-810-2025-controle-interno-da-camara",
+  "tribunal": "TCE-ES",
+  "tipo": "Acórdão (Incidente de Prejulgado)",
+  "numero": "TC-810/2025",
+  "processo": "TC-9905/2024",
+  "orgao": "Plenário",
+  "relator": "Rodrigo Coelho do Carmo",
+  "data": "2025-09-01",
+  "data_tipo": "publicado em",
+  "titulo": "O controle interno da Câmara pode ser feito pela Controladoria da Prefeitura?",
+  "tese": "Em regra, não. O controle interno da Câmara Municipal compete à unidade de controle interno do próprio Legislativo. Excepcionalmente, a unidade do Executivo pode exercer a função se houver previsão legal, se o sistema do Executivo estiver estruturado e ativo, se ficar demonstrada a inviabilidade de criar unidade própria na Câmara e se forem preservadas a autonomia e a independência técnica do controle, sem subordinação hierárquica.",
+  "contexto": "Incidente de prejulgado instaurado a partir da prestação de contas de 2022 da Câmara Municipal de Alto Rio Novo, cujo controle interno era exercido pela Controladoria-Geral do Executivo.",
+  "assuntos": [
+   "controle-interno"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 136",
+  "fonte_url": "https://www.tcees.tc.br/wp-content/uploads/formidable/44/Informativo-de-Jurisprudencia-136.pdf"
+ },
+ {
+  "slug": "tcees-consulta-009-2025-auxilios-vereadores-resolucao",
+  "tribunal": "TCE-ES",
+  "tipo": "Parecer em Consulta",
+  "numero": "TC-009/2025",
+  "processo": "TC-10491/2024",
+  "orgao": "Plenário",
+  "relator": "Rodrigo Flávio Freire Farias Chamoun",
+  "data": "2025-08-18",
+  "data_tipo": "publicado em",
+  "titulo": "Vereador pode receber auxílio-alimentação, saúde e combustível?",
+  "tese": "Sim. Auxílio-alimentação, auxílio-saúde e auxílio-combustível podem ser concedidos a vereadores como verbas indenizatórias, que não se confundem com o subsídio. Podem ser instituídos por resolução aprovada durante a própria legislatura, observadas as condições específicas de pagamento e vedada a acumulação de benefícios da mesma natureza.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Água Doce do Norte sobre a possibilidade, o instrumento normativo (lei ou resolução) e a regra da anterioridade.",
+  "assuntos": [
+   "verbas-indenizatorias",
+   "subsidio-vereadores"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 136",
+  "fonte_url": "https://www.tcees.tc.br/wp-content/uploads/formidable/44/Informativo-de-Jurisprudencia-136.pdf"
+ },
+ {
+  "slug": "tcees-consulta-015-2025-prazo-fixacao-subsidio-vereadores",
+  "tribunal": "TCE-ES",
+  "tipo": "Parecer em Consulta",
+  "numero": "TC-015/2025",
+  "processo": "",
+  "orgao": "Plenário",
+  "relator": "Sebastião Carlos Ranna de Macedo",
+  "data": "2025-11-26",
+  "data_tipo": "publicado em",
+  "titulo": "Até quando a Câmara pode fixar o subsídio dos vereadores da próxima legislatura?",
+  "tese": "O subsídio da legislatura seguinte deve ser fixado antes das eleições municipais (princípio da anterioridade, art. 29, VI, da CF) e com pelo menos 180 dias de antecedência do fim do mandato do presidente da Câmara (art. 21, II, da LRF), sem prejuízo de outras restrições da Lei Orgânica.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Água Doce do Norte, que perguntou se o prazo final seria 180 dias antes do fim do mandato, a data das eleições ou 31 de dezembro.",
+  "assuntos": [
+   "subsidio-vereadores"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 136",
+  "fonte_url": "https://www.tcees.tc.br/wp-content/uploads/formidable/44/Informativo-de-Jurisprudencia-136.pdf"
+ },
+ {
+  "slug": "tcees-consulta-003-2026-subsidio-processo-legislativo-completo",
+  "tribunal": "TCE-ES",
+  "tipo": "Parecer em Consulta",
+  "numero": "TC-003/2026",
+  "processo": "TC-7560/2025",
+  "orgao": "Plenário",
+  "relator": "Sérgio Aboudib Ferreira Pinto",
+  "data": "2026-03-09",
+  "data_tipo": "publicado em",
+  "titulo": "Basta votar o subsídio antes do prazo, ou a lei precisa estar publicada?",
+  "tese": "A lei precisa estar publicada. A fixação do subsídio dos vereadores só se considera feita com a conclusão integral do processo legislativo — sanção, promulgação e publicação — antes das eleições municipais e antes dos 180 dias que antecedem o fim do mandato do presidente da Câmara. Concluir só a votação antes desses marcos não basta.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Muqui sobre projeto votado antes do prazo, mas sancionado e publicado dentro do período vedado.",
+  "assuntos": [
+   "subsidio-vereadores"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 137",
+  "fonte_url": "https://www.tcees.tc.br/wp-content/uploads/formidable/44/Informativo-de-Jurisprudencia-137.pdf"
+ },
+ {
+  "slug": "tcees-consulta-011-2026-inativos-pensionistas-limite-29a",
+  "tribunal": "TCE-ES",
+  "tipo": "Parecer em Consulta",
+  "numero": "TC-011/2026",
+  "processo": "TC-3450/2025",
+  "orgao": "Plenário",
+  "relator": "Rodrigo Flávio Freire Farias Chamoun",
+  "data": "2026-06-22",
+  "data_tipo": "publicado em",
+  "titulo": "Gastos com inativos e pensionistas entram no limite de gastos da Câmara?",
+  "tese": "Sim, desde a legislatura iniciada em 1º/1/2025. Entram no limite do art. 29-A da CF as despesas com inativos e pensionistas pagas pelo orçamento da Câmara, o plano de custeio previdenciário e as transferências para cobrir insuficiência financeira do RPPS, qualquer que seja a data de concessão do benefício. Os benefícios pagos diretamente pelo RPPS não entram. Essas despesas devem caber no duodécimo, sem aumento do repasse.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Vila Velha sobre os efeitos da EC 109/2021 no art. 29-A.",
+  "assuntos": [
+   "duodecimo-limites",
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 138",
+  "fonte_url": "https://www.tcees.tc.br/wp-content/uploads/formidable/44/Informativo-de-Jurisprudencia-138.pdf"
+ },
+ {
+  "slug": "tcemg-consulta-1184838-vereador-conselho-municipal",
+  "tribunal": "TCE-MG",
+  "tipo": "Consulta (prejulgamento de tese)",
+  "numero": "1184838",
+  "processo": "1184838",
+  "orgao": "Tribunal Pleno",
+  "relator": "Agostinho Patrus",
+  "data": "2026-07-08",
+  "data_tipo": "sessão de",
+  "titulo": "Vereador pode ser membro de conselho municipal?",
+  "tese": "Em regra, não, quando o conselho tiver natureza executiva. A participação de parlamentar em conselho municipal desse tipo afronta a separação e harmonia dos Poderes, por ser incompatível com as funções do Legislativo, especialmente a fiscalização do Executivo. A tese foi fixada com caráter normativo.",
+  "contexto": "Consulta de vereadores da Câmara Municipal de Conceição do Mato Dentro.",
+  "assuntos": [
+   "separacao-poderes"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 334",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20334.pdf"
+ },
+ {
+  "slug": "tcemg-denuncia-1184913-camara-transmissao-sessoes-pesquisa-precos",
+  "tribunal": "TCE-MG",
+  "tipo": "Denúncia",
+  "numero": "1184913",
+  "processo": "1184913",
+  "orgao": "Segunda Câmara",
+  "relator": "Hamilton Coelho (em exercício)",
+  "data": "2026-06-30",
+  "data_tipo": "sessão de",
+  "titulo": "Contratação da transmissão das sessões da Câmara: como fazer a pesquisa de preços?",
+  "tese": "Na dispensa de licitação para operar a transmissão das reuniões da Câmara, a estimativa de valor não pode se limitar a alguns orçamentos. Deve se basear em cotação ampla e detalhada, com fontes diversificadas, inclusive contratações similares de outros órgãos. Pesquisa insuficiente, com elevação significativa do valor, levou à aplicação de multa.",
+  "contexto": "Denúncia contra Câmara Municipal; publicado no DOC de 7/7/2026.",
+  "assuntos": [
+   "licitacoes-contratos"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 334",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20334.pdf"
+ },
+ {
+  "slug": "tcemg-denuncia-1192332-assessor-juridico-comissionado-camara",
+  "tribunal": "TCE-MG",
+  "tipo": "Denúncia",
+  "numero": "1192332",
+  "processo": "1192332",
+  "orgao": "Primeira Câmara",
+  "relator": "Licurgo Mourão (em exercício)",
+  "data": "2026-06-16",
+  "data_tipo": "sessão de",
+  "titulo": "A Câmara pode ter assessor jurídico em cargo comissionado?",
+  "tese": "Pode, desde que o cargo tenha atribuições de direção, chefia ou assessoramento e pressuponha relação de confiança (STF, Tema 1.010); não cabe para atividades burocráticas, técnicas ou operacionais. Sem percentual fixado em lei, a proporção entre cargos efetivos e comissionados é avaliada por razoabilidade e proporcionalidade no caso concreto.",
+  "contexto": "Denúncia contra Câmara Municipal julgada improcedente; publicado no DOC de 2/7/2026.",
+  "assuntos": [
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 334",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20334.pdf"
+ },
+ {
+  "slug": "tcemg-consulta-1196204-servidor-apostilado-funcao-confianca",
+  "tribunal": "TCE-MG",
+  "tipo": "Consulta",
+  "numero": "1196204",
+  "processo": "1196204",
+  "orgao": "Tribunal Pleno",
+  "relator": "Adonias Monteiro (em exercício)",
+  "data": "2026-07-08",
+  "data_tipo": "sessão de",
+  "titulo": "Servidor apostilado da Câmara pode assumir função de confiança?",
+  "tese": "Sim. Servidor efetivo com vantagem de apostilamento incorporada antes da EC 103/2019 pode ser designado para função de confiança. A gratificação da função, porém, deve ser calculada só sobre o vencimento do cargo efetivo, sem incluir a parcela do apostilamento, para evitar o efeito cascata (art. 37, XIV, da CF).",
+  "contexto": "Consulta formulada por Câmara Municipal; publicado no DOC de 4/8/2026.",
+  "assuntos": [
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 335",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20335.pdf"
+ },
+ {
+  "slug": "tcemg-representacao-1127888-subsidio-acima-limite-brumadinho",
+  "tribunal": "TCE-MG",
+  "tipo": "Representação",
+  "numero": "1127888",
+  "processo": "1127888",
+  "orgao": "Primeira Câmara",
+  "relator": "Agostinho Patrus",
+  "data": "2026-08-18",
+  "data_tipo": "sessão de",
+  "titulo": "Ajuda de custo dos deputados entra no cálculo do teto do subsídio do vereador?",
+  "tese": "Não. O limite do subsídio dos vereadores (art. 29, VI, da CF) incide só sobre o subsídio dos deputados estaduais, sem parcelas variáveis ou indenizatórias. Incluir a ajuda de custo dos deputados na base gerou pagamento acima do teto, com determinação de ressarcimento e multa. A boa-fé foi afastada porque os próprios vereadores editaram o ato que fixou seus subsídios.",
+  "contexto": "Representação contra a Câmara Municipal de Brumadinho, referente a pagamentos de janeiro de 2021 a janeiro de 2022.",
+  "assuntos": [
+   "subsidio-vereadores"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 336",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20336.pdf"
+ },
+ {
+  "slug": "tcemg-representacao-1192128-assessoria-juridica-inexigibilidade",
+  "tribunal": "TCE-MG",
+  "tipo": "Representação",
+  "numero": "1192128",
+  "processo": "1192128",
+  "orgao": "Primeira Câmara",
+  "relator": "Alencar da Silveira Jr.",
+  "data": "2026-08-11",
+  "data_tipo": "sessão de",
+  "titulo": "A Câmara pode contratar assessoria jurídica sem licitação?",
+  "tese": "Só com notória especialização comprovada. A inexigibilidade do art. 74, III, da Lei 14.133/2021 exige demonstrar a inviabilidade de competição, que nos serviços técnicos especializados depende da notória especialização do contratado no caso concreto. Sem essa prova, o Tribunal reconheceu erro grosseiro e aplicou multa.",
+  "contexto": "Representação contra Câmara Municipal; publicado no DOC de 25/8/2026.",
+  "assuntos": [
+   "licitacoes-contratos"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 336",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20336.pdf"
+ },
+ {
+  "slug": "tcemg-representacao-1164229-emendas-impositivas-execucao",
+  "tribunal": "TCE-MG",
+  "tipo": "Representação",
+  "numero": "1164229",
+  "processo": "1164229",
+  "orgao": "Segunda Câmara",
+  "relator": "Adonias Monteiro (em exercício)",
+  "data": "2026-08-18",
+  "data_tipo": "sessão de",
+  "titulo": "A Prefeitura pode deixar de executar emendas impositivas dos vereadores?",
+  "tese": "Só com impedimento técnico demonstrado e tratado. Emendas impositivas são de execução obrigatória. Alegar impedimento técnico sem comprovar medidas para resolvê-lo e sem comunicar o Legislativo, sobretudo o vereador autor da emenda, não afasta a irregularidade. O gestor foi multado.",
+  "contexto": "Representação contra Prefeitura Municipal; publicado no DOC de 26/8/2026.",
+  "assuntos": [
+   "orcamento-emendas"
+  ],
+  "escopo": "aplicavel",
+  "fonte": "Informativo de Jurisprudência n. 336",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20336.pdf"
+ },
+ {
+  "slug": "tcemg-consulta-1210766-aumento-duodecimo-durante-exercicio",
+  "tribunal": "TCE-MG",
+  "tipo": "Consulta",
+  "numero": "1210766",
+  "processo": "1210766",
+  "orgao": "Tribunal Pleno",
+  "relator": "Alencar da Silveira Jr.",
+  "data": "2026-09-23",
+  "data_tipo": "sessão de",
+  "titulo": "O repasse do duodécimo pode ser aumentado no meio do ano?",
+  "tese": "Pode, respeitados os limites do art. 29-A da CF (o global e o do § 1º) e os da LRF para pessoal, com a devida alteração orçamentária. O repasse segue o limite constitucional e o valor fixado na LOA: se a LOA prevê menos que o teto, a Câmara não tem direito automático ao percentual máximo, que é limite e não garantia.",
+  "contexto": "Consulta sobre a necessidade de lei específica e de crédito suplementar para ampliar o repasse ao Legislativo.",
+  "assuntos": [
+   "duodecimo-limites"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 338",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20338.pdf"
+ },
+ {
+  "slug": "tcemg-recurso-1196203-presidente-envio-julgamento-contas",
+  "tribunal": "TCE-MG",
+  "tipo": "Recurso Ordinário",
+  "numero": "1196203",
+  "processo": "1196203",
+  "orgao": "Tribunal Pleno",
+  "relator": "Gilberto Diniz",
+  "data": "2026-09-09",
+  "data_tipo": "sessão de",
+  "titulo": "Quem responde se a Câmara não envia ao TC o julgamento das contas do prefeito?",
+  "tese": "O presidente da Câmara. Concluído o julgamento, ele deve enviar ao Tribunal, em 30 dias, a resolução publicada e as atas com a votação nominal (art. 44 da LC estadual 102/2008). Delegar a tarefa a servidor não transfere a responsabilidade. A omissão após três intimações configurou erro grosseiro, e a multa foi mantida mesmo sem prejuízo financeiro.",
+  "contexto": "Recurso de presidente de Câmara multado; publicado no DOC de 17/9/2026.",
+  "assuntos": [
+   "julgamento-contas-prefeito"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 338",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20338.pdf"
+ },
+ {
+  "slug": "tcemg-representacao-1177448-revisao-subsidio-duplicidade",
+  "tribunal": "TCE-MG",
+  "tipo": "Representação",
+  "numero": "1177448",
+  "processo": "1177448",
+  "orgao": "Segunda Câmara",
+  "relator": "Adonias Monteiro (em exercício)",
+  "data": "2026-09-29",
+  "data_tipo": "sessão de",
+  "titulo": "Revisão do subsídio aplicada em dobro por erro do sistema: vereador devolve?",
+  "tese": "Aplicar duas vezes o índice de revisão geral gera aumento real de subsídio na legislatura, o que é irregular. No caso, o ressarcimento foi afastado pelo princípio da insignificância (débito inferior a R$ 10 mil por vereador) e a multa ao presidente foi afastada por ausência de dolo ou erro grosseiro (art. 28 da LINDB), pois a falha foi técnica, na parametrização da folha.",
+  "contexto": "Representação contra a Câmara Municipal de Minas Novas, sobre pagamentos de 2023 e 2024.",
+  "assuntos": [
+   "subsidio-vereadores"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 339",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20339.pdf"
+ },
+ {
+  "slug": "tcemg-representacao-1144699-transparencia-portal-camara",
+  "tribunal": "TCE-MG",
+  "tipo": "Representação",
+  "numero": "1144699",
+  "processo": "1144699",
+  "orgao": "Primeira Câmara",
+  "relator": "Telmo Passareli (substituto)",
+  "data": "2026-09-22",
+  "data_tipo": "sessão de",
+  "titulo": "Ter portal da transparência basta para a Câmara cumprir a lei?",
+  "tese": "Não. A transparência exige informações amplas, atualizadas, acessíveis e compreensíveis (arts. 48 e 48-A da LRF e art. 8º da LAI). Deixar de divulgar instrumentos de planejamento, relatórios fiscais e a execução orçamentária detalhada justifica multa. A responsabilidade é do gestor máximo do órgão.",
+  "contexto": "Representação contra Câmara Municipal; publicado no DOC de 6/10/2026.",
+  "assuntos": [
+   "transparencia"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 339",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20339.pdf"
+ },
+ {
+  "slug": "tcemg-representacao-1214352-vale-alimentacao-agentes-politicos",
+  "tribunal": "TCE-MG",
+  "tipo": "Representação",
+  "numero": "1214352",
+  "processo": "1214352",
+  "orgao": "Segunda Câmara",
+  "relator": "Adonias Monteiro (em exercício)",
+  "data": "2026-09-22",
+  "data_tipo": "sessão de",
+  "titulo": "Agente político remunerado por subsídio pode receber vale-alimentação?",
+  "tese": "Sim. O regime de subsídio (art. 39, § 4º, da CF) não impede verbas indenizatórias instituídas por lei. O vale-alimentação tem natureza indenizatória e não é aumento indireto do subsídio, desde que haja previsão legal expressa, disponibilidade orçamentária e finalidade compatível.",
+  "contexto": "Representação sobre vale-alimentação a prefeito, vice e secretários, julgada improcedente; publicado no DOC de 5/10/2026.",
+  "assuntos": [
+   "verbas-indenizatorias"
+  ],
+  "escopo": "aplicavel",
+  "fonte": "Informativo de Jurisprudência n. 339",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20339.pdf"
+ },
+ {
+  "slug": "tcemg-consulta-1199897-cosip-base-duodecimo",
+  "tribunal": "TCE-MG",
+  "tipo": "Consulta",
+  "numero": "1199897",
+  "processo": "1199897",
+  "orgao": "Tribunal Pleno",
+  "relator": "Licurgo Mourão (em exercício)",
+  "data": "2026-10-14",
+  "data_tipo": "sessão de",
+  "titulo": "A parcela desvinculada da Cosip entra na base de cálculo do duodécimo?",
+  "tese": "Não. A Cosip/CIP é receita de contribuição, não receita tributária, para fins do art. 29-A da CF. A desvinculação do art. 76-B do ADCT apenas libera a destinação de parte do valor arrecadado, sem mudar a natureza da receita. Por isso, a parcela desvinculada não amplia a base de cálculo do repasse à Câmara.",
+  "contexto": "Consulta do Presidente da Câmara Municipal de Timóteo sobre os efeitos das EC 132/2023 e 136/2025.",
+  "assuntos": [
+   "duodecimo-limites"
+  ],
+  "escopo": "especifica",
+  "fonte": "Informativo de Jurisprudência n. 340",
+  "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20340.pdf"
+ }
+]

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://radardascamaras.com.br/sitemap.xml
