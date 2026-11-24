@@ -1,0 +1,9 @@
+{
+  // Configuração do Cloudflare: publica o site estático gerado em dist/
+  "name": "radardascamaras",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "html_handling": "auto-trailing-slash"
+  }
+}
