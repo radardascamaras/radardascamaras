@@ -401,5 +401,146 @@
   "escopo": "especifica",
   "fonte": "Informativo de Jurisprudência n. 340",
   "fonte_url": "https://www.tce.mg.gov.br/IMG/InformativoJurisprudencia/IJ%20340.pdf"
+ },
+ {
+  "slug": "tcesp-consulta-022297-989-24-diarias-vereadores",
+  "tribunal": "TCE-SP",
+  "tipo": "Consulta (prejulgado)",
+  "numero": "TC-022297.989.24-6",
+  "processo": "TC-022297.989.24-6",
+  "orgao": "Tribunal Pleno",
+  "relator": "Renato Martins Costa",
+  "data": "2026-06-03",
+  "data_tipo": "sessão de",
+  "titulo": "A Câmara pode pagar diárias a vereadores?",
+  "tese": "Sim. Diárias para deslocamento de vereadores têm natureza indenizatória, não remuneratória (art. 37, § 11, da CF; STF, Tema 484). A Câmara pode escolher entre o regime de adiantamento e o de diárias, desde que haja regulamentação local com critérios objetivos, caráter eventual, valor definido, vínculo com o interesse público, prestação de contas e transparência.",
+  "contexto": "Consulta respondida pelo Plenário com força de prejulgado; esclarece que a Deliberação TC-A-042975/026/08, ao citar o adiantamento, não exclui as diárias.",
+  "assuntos": [
+   "verbas-indenizatorias",
+   "subsidio-vereadores"
+  ],
+  "escopo": "especifica",
+  "fonte": "Boletim de Jurisprudência n. 56 (junho/2026)",
+  "fonte_url": "https://www.tce.sp.gov.br/sites/default/files/publicacoes/Boletim-Jurisprudencia-TCESP-Junho_2026_v2.pdf"
+ },
+ {
+  "slug": "tcesp-ro-15709-989-23-guarulhos-excesso-comissionados",
+  "tribunal": "TCE-SP",
+  "tipo": "Recurso Ordinário (contas anuais)",
+  "numero": "TC-15709.989.23-0",
+  "processo": "TC-15709.989.23-0",
+  "orgao": "Tribunal Pleno",
+  "relator": "Renato Martins Costa",
+  "data": "2025-03-12",
+  "data_tipo": "sessão de",
+  "titulo": "Excesso de cargos em comissão reprova as contas da Câmara?",
+  "tese": "Pode reprovar. As contas da Câmara foram mantidas irregulares pelo excesso de cargos em comissão, com atribuições incompatíveis com a Constituição, e pela reincidência. O relator lembrou que o orçamento do Legislativo deve se pautar nas suas reais necessidades, não só na capacidade de arrecadação do município.",
+  "contexto": "Câmara Municipal de Guarulhos: comparada a Campinas, com população e número de vereadores semelhantes, tinha o dobro de comissionados e metade da receita própria.",
+  "assuntos": [
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Boletim de Jurisprudência (março/2025)",
+  "fonte_url": "https://www.tce.sp.gov.br/sites/default/files/publicacoes/Boletim-Jurisprudencia-TCESP-Março_2025.pdf"
+ },
+ {
+  "slug": "tcesp-ro-001225-989-24-comissionados-em-cargos-efetivos",
+  "tribunal": "TCE-SP",
+  "tipo": "Recurso Ordinário (contas anuais)",
+  "numero": "TC-001225.989.24-3",
+  "processo": "TC-001225.989.24-3",
+  "orgao": "Tribunal Pleno",
+  "relator": "Renato Martins Costa",
+  "data": "2025-05-07",
+  "data_tipo": "sessão de",
+  "titulo": "Câmara pode nomear sem concurso para cargo que a lei define como efetivo?",
+  "tese": "Não. Nomear em comissão para cargos que a lei municipal define como de provimento efetivo, dependentes de concurso, é irregular. Somada a inconsistências contábeis e contratação irregular de serviços, a falha levou à manutenção da irregularidade das contas da Câmara.",
+  "contexto": "Os cargos de Supervisor de Tecnologia da Informação e Zelador Chefe eram efetivos pela lei municipal, mas foram preenchidos sem concurso.",
+  "assuntos": [
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Boletim de Jurisprudência (maio/2025)",
+  "fonte_url": "https://www.tce.sp.gov.br/sites/default/files/publicacoes/Boletim-Jurisprudencia-TCESP-Maio_2025.pdf"
+ },
+ {
+  "slug": "tcesp-contas-005241-989-23-estagiarios-acima-limite",
+  "tribunal": "TCE-SP",
+  "tipo": "Contas anuais",
+  "numero": "TC-005241.989.23-5",
+  "processo": "TC-005241.989.23-5",
+  "orgao": "",
+  "relator": "Sidney Estanislau Beraldo",
+  "data": "2025-05-13",
+  "data_tipo": "sessão de",
+  "titulo": "Existe limite para o número de estagiários na Câmara?",
+  "tese": "Sim. O número de estagiários deve respeitar a proporção do art. 17 da Lei 11.788/2008 (Lei do Estágio). Na Câmara julgada, os estagiários equivaliam a 49,47% das vagas preenchidas, muito acima do permitido. O Tribunal também apontou falhas no regime de adiantamentos e irregularidade nos gastos com publicidade.",
+  "contexto": "Julgamento das contas anuais de Câmara Municipal, com determinações.",
+  "assuntos": [
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Boletim de Jurisprudência (maio/2025)",
+  "fonte_url": "https://www.tce.sp.gov.br/sites/default/files/publicacoes/Boletim-Jurisprudencia-TCESP-Maio_2025.pdf"
+ },
+ {
+  "slug": "tcesp-ro-021983-989-24-gratificacoes-sem-criterios",
+  "tribunal": "TCE-SP",
+  "tipo": "Recurso Ordinário (contas anuais)",
+  "numero": "TC-021983.989.24-5",
+  "processo": "TC-021983.989.24-5",
+  "orgao": "Tribunal Pleno",
+  "relator": "Marco Aurélio Bertaiolli",
+  "data": "2025-06-11",
+  "data_tipo": "sessão de",
+  "titulo": "Gratificações na Câmara podem ficar a critério do presidente?",
+  "tese": "Não. Lei que dá discricionariedade ao gestor não supre a falta de critérios objetivos para conceder gratificações aos servidores. As contas de 2023 seguiram irregulares também pelo excesso de cargos em comissão em comparação com legislativos semelhantes e pelos gastos elevados com pessoal, custeio per capita e por vereador.",
+  "contexto": "Recurso de Câmara Municipal contra a reprovação das contas do exercício de 2023, não provido.",
+  "assuntos": [
+   "pessoal"
+  ],
+  "escopo": "especifica",
+  "fonte": "Boletim de Jurisprudência (junho/2025)",
+  "fonte_url": "https://www.tce.sp.gov.br/sites/default/files/publicacoes/Boletim-Jurisprudencia-TCESP-Junho_2025.pdf"
+ },
+ {
+  "slug": "tcesp-ro-010436-989-24-omissao-camara-controle-interno",
+  "tribunal": "TCE-SP",
+  "tipo": "Recurso Ordinário (contas anuais)",
+  "numero": "TC-010436.989.24-8",
+  "processo": "TC-010436.989.24-8",
+  "orgao": "Tribunal Pleno",
+  "relator": "Renato Martins Costa",
+  "data": "2025-07-02",
+  "data_tipo": "sessão de",
+  "titulo": "Câmara e controle interno respondem por irregularidade de vereador?",
+  "tese": "Sim, quando se omitem. As contas da Câmara foram reprovadas porque a Mesa ficou omissa diante de irregularidade cometida por vereador, com prejuízo ao erário, e o Sistema de Controle Interno se manteve indiferente à situação.",
+  "contexto": "Recurso ordinário contra a reprovação das contas de Câmara Municipal, conhecido e não provido.",
+  "assuntos": [
+   "controle-interno"
+  ],
+  "escopo": "especifica",
+  "fonte": "Boletim de Jurisprudência (julho/2025)",
+  "fonte_url": "https://www.tce.sp.gov.br/sites/default/files/publicacoes/Boletim-Jurisprudencia-TCESP-Julho_2025.pdf"
+ },
+ {
+  "slug": "tcesp-contas-004457-989-24-rga-agentes-politicos",
+  "tribunal": "TCE-SP",
+  "tipo": "Contas anuais (Prefeitura)",
+  "numero": "TC-004457.989.24-2",
+  "processo": "TC-004457.989.24-2",
+  "orgao": "",
+  "relator": "Dimas Ramalho",
+  "data": "2026-05-12",
+  "data_tipo": "sessão de",
+  "titulo": "Revisão geral anual de agentes políticos pode cobrir vários anos de uma vez?",
+  "tese": "Não. A revisão geral anual de agentes políticos é admitida em lei específica, sem distinção de data e índice em relação aos servidores e respeitados os limites constitucionais. Ela deve se limitar aos 12 meses anteriores, com índice compatível com a inflação do período; não pode abranger quatro anos de uma vez.",
+  "contexto": "Contas de Prefeitura em que a revisão do prefeito, vice e secretários alcançou o período de 2017 a 2021. O entendimento orienta também a revisão do subsídio dos vereadores.",
+  "assuntos": [
+   "subsidio-vereadores"
+  ],
+  "escopo": "aplicavel",
+  "fonte": "Boletim de Jurisprudência (maio/2026)",
+  "fonte_url": "https://www.tce.sp.gov.br/sites/default/files/publicacoes/Boletim-Jurisprudencia-TCESP-Maio_2026.pdf"
  }
 ]

@@ -27,6 +27,7 @@ ASSUNTOS = {
 TRIBUNAIS = {
  'TCE-ES': ('tce-es', 'Tribunal de Contas do Estado do Espírito Santo'),
  'TCE-MG': ('tce-mg', 'Tribunal de Contas do Estado de Minas Gerais'),
+ 'TCE-SP': ('tce-sp', 'Tribunal de Contas do Estado de São Paulo'),
 }
 MESES = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez']
 
